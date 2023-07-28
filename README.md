@@ -18,6 +18,7 @@ O propósito é realizar os processos aprendidos no curso na prática e deixar m
 
 ## 🔍 Referências 
 [Digital Innovation One] (https://www.dio.me/)
+
 [Bootcamp Potência Tech powered by iFood Ciência de Dados]
 (https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
 
