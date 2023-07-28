@@ -1,0 +1,15 @@
+#Caderno de Estudo Notion
+
+##Links de Caderno Notion Realizado no curso
+
+Caderno de estudo confeccionado seguindo passos do curso 
+
+**Organizando seus Estudos com os Roadmaps DIO e o Notion**
+
+(https://www.notion.so/anawyatt-datascience/Caderno-de-Estudos-Pot-ncia-Tech-by-iFood-DIO-Dados-com-Python-1b9d6f5e376a4c0485d3346b988741e8?pvs=4)
+
+
+Referências
+Digital Innovation One (https://www.dio.me/)
+
+Bootcamp Potência Tech powered by iFood | Ciência de Dados

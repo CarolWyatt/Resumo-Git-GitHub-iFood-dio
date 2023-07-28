@@ -1,0 +1,6 @@
+#Passo a passo - Etapa 1 - Criação e conexão de repositórios
+
+* Criar um repositório remoto novo para receber o resumo
+* Conectar um repositório local ao repositório remoto
+* Transferir documentos de resumo do repositório local para repositório remoto - via linha de comando
+
